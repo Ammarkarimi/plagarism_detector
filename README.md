@@ -41,7 +41,7 @@ A modern web application for detecting code plagiarism using advanced analysis t
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ammarkarimi/plagarism_detector.git
 cd code-plagiarism-detector
 ```
 
